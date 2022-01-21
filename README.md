@@ -1,4 +1,4 @@
 # Rock-Paper-Scissors
 Rock Paper Scissors Game
-#NOTE:
+<h1>NOTE:</h1>
 Only for desktop
